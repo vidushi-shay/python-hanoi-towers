@@ -1,7 +1,9 @@
 # Hanoi Towers Game
 
 ## Description
-A Python console-based implementation of the classic Tower of Hanoi puzzle. The program allows users to create a game with different numbers of towers and disks, make valid disk movements, and save/load their progress.
+A python implementation of the classic Tower of Hanoi puzzle, developed in two milestones.
+- Milestone 1 is a console-based version of the game.
+- Milestone 2 is a graphical user interface (GUI) version created using the graphics library. 
 
 ## How it works
 - The user chooses the number of towers and disks for the game.
